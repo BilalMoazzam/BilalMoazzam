@@ -4,5 +4,7 @@ I'm Bilal, an AI Engineer at ibex.
 
 I work on AI-powered applications and automation, with a focus on building useful things with LLMs and AI agents. I enjoy exploring new ideas, experimenting with technology, and turning what I learn into practical projects.
 
-Let's connect!
-LinkedIn · GitHub
+#### Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-moazzam-chaudary/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BilalMoazzam)
